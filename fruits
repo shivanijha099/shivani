@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+ <html lang="en">
+<head>
+<meta charset="UIF-8">
+<meta name="viewport" content="width=device-width, intial-
+scale=1.0">
+<title> hot skills</title>
+</head>
+ <body>
+<hl><center>hot skills</center></h1>
+<table border"='3'>
+<tr>
+<th>BOLD</th>
+<th>DIGITAL MARKETING</th>
+<th>MAINFRAME</th>
+</tr>
+<tr>
+<td>spark</td>
+<td>SEO anaylytics</td>
+<td>COBOL</td>
+</tr>
+<tr>
+<td>scala</td>
+<td>social media marketing</td>
+<td>DB2</td>
+</tr>
+<tr>
+<td>HBase</td>
+<td>content marketing</td>
+<td>JCL</td>
+</tr>
+<tr>
+<td>Kafka</td>
+<td>Analytics marketings</td>
+<td>CICS</td>
+</tr>
+</table>
+</body>
+</html>
